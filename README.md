@@ -9,7 +9,7 @@ report demonstrates how NST can transform images, maintaining the structural ele
 Key findings include high-quality image generation and flexibility in style application,
 though challenges such as computational demands and handling complex styles remains.
 
-To view the project report,[Click Here](https://drive.google.com/file/d/1B7xWG_KSRPRHddRoMIkjo1fzwJUXnZdK/view?usp=sharing) or demo video, [Click Here](https://drive.google.com/file/d/1HcGsahvrPKm6-p8mgTMTgp0A_JbSovBE/view?usp=sharing).
+To view the project report,[Click Here](https://drive.google.com/file/d/1B7xWG_KSRPRHddRoMIkjo1fzwJUXnZdK/view?usp=sharing) or demo video, [Click Here](https://drive.google.com/file/d/1z8tvvEf5Wf7UV1MwH2i3GoDa--boHvhq/view?usp=sharing).
 
 ## Table of Contents :bar_chart:
 - Requirements
