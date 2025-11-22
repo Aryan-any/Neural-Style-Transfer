@@ -158,7 +158,7 @@ Demo video, [Click Here](https://drive.google.com/file/d/1z8tvvEf5Wf7UV1MwH2i3Go
 
 After this default browser will be opened with local host. You can now select any of the 8 styles and upload a content image to get it stylized.
 
-You can also visit the Streamlit deployed website by [clicking Here](https://github.com/Aryan-any/Neural-Style-Transfer).
+You can also visit the Streamlit deployed website by [clicking Here](https://neural-style-transfer-aryan.streamlit.app/).
 ## Challenges Faced :mag_right:
   - Due to limited GPU memory, training was not possible if the size of style image is
 more than 2MB so we should resize it to (256, 256)
