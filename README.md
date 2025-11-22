@@ -133,7 +133,7 @@ All the model were trained on GPU P100 that is available on kaggle.
 
 ![image](https://github.com/vaibhavprajapati-22/Fast-Neural-Style-Transfer/assets/148644657/ef5a717f-45a9-4cc0-9aaf-f8b445a64225)
 
-Demo video, [Click Here](https://drive.google.com/file/d/1HcGsahvrPKm6-p8mgTMTgp0A_JbSovBE/view?usp=sharing).
+Demo video, [Click Here](https://drive.google.com/file/d/1z8tvvEf5Wf7UV1MwH2i3GoDa--boHvhq/view?usp=sharing).
 
 ## How To Run :gun:
   1. Clone the repository:
