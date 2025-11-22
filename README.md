@@ -139,7 +139,7 @@ Demo video, [Click Here](https://drive.google.com/file/d/1HcGsahvrPKm6-p8mgTMTgp
   1. Clone the repository:
     <pre>
     <code class="python">
-    git clone https://github.com/vaibhavprajapati-22/Fast-Neural-Style-Transfer
+    git clone https://github.com/Aryan-any/Neural-Style-Transfer
     </code>
     </pre>
   2. Install the required dependencies:
